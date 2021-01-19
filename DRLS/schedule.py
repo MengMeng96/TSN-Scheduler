@@ -6,6 +6,8 @@ import os
 import sys
 # sys.path.append("../jhy")
 
+SCHE_FILE = '../resource/data-2-hop/schedule.json'
+
 class Schedule:
     def __init__(self, node_num = 0):
         self.node_num = node_num
