@@ -11,8 +11,8 @@ import math
 
 # sys.path.append("../resource/")
 # from schedule import Schedule
-from param import *
-from TSN_schedule import TSN_Schedule
+from DRLS.param import *
+from DRLS.TSN_schedule import TSN_Schedule
 
 
 class Environment:
