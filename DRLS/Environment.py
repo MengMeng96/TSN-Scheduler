@@ -1,4 +1,4 @@
-# -*- coding: UTF-8 -*-
+# coding=UTF-8
 
 from DRLS.Node import *
 from DRLS.Graph import *
@@ -10,7 +10,7 @@ import copy
 import math
 
 # sys.path.append("../resource/")
-# from schedule import Schedule
+from DRLS.schedule import Schedule
 from DRLS.param import *
 from DRLS.TSN_schedule import TSN_Schedule
 
@@ -55,6 +55,9 @@ class Environment:
 
         # 从输入中读取TS流需求
         self.tt_queries = tsn_input["flows"]
+
+        self.schedule = Schedule()
+        self.current_stream_schedule = Schedule()
         self.enforce_next_query()
         self.TSN_schedule = TSN_Schedule(self.graph, args.all_queue_count)
         self.TSN_schedule.init_from_info_node(self.graph.node_info)
