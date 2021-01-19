@@ -4,8 +4,8 @@ import itertools
 import numpy as np
 from collections import OrderedDict
 # coding=UTF-8
-import xlrd
-import xlwt
+# import xlrd
+# import xlwt
 
 
 def aggregate_gradients(gradients):
@@ -251,15 +251,15 @@ def truncate_experiences(lst):
     return batch_points
 
 
-def write_excel_xls(path, sheet_name, value):
-    index = len(value)  # 获取需要写入数据的行数
-    workbook = xlwt.Workbook()  # 新建一个工作簿
-    sheet = workbook.add_sheet(sheet_name)  # 在工作簿中新建一个表格
-    for i in range(0, index):
-        for j in range(0, len(value[i])):
-            sheet.write(i, j, value[i][j])  # 像表格中写入数据（对应的行和列）
-    workbook.save(path)  # 保存工作簿
-    print("result", path, sheet_name)
+# def write_excel_xls(path, sheet_name, value):
+#     index = len(value)  # 获取需要写入数据的行数
+#     workbook = xlwt.Workbook()  # 新建一个工作簿
+#     sheet = workbook.add_sheet(sheet_name)  # 在工作簿中新建一个表格
+#     for i in range(0, index):
+#         for j in range(0, len(value[i])):
+#             sheet.write(i, j, value[i][j])  # 像表格中写入数据（对应的行和列）
+#     workbook.save(path)  # 保存工作簿
+#     print("result", path, sheet_name)
 
 
 
