@@ -2,14 +2,13 @@ import sys
 import time
 
 # 系统路径进入到上层目录，可以引用上层目录的库
-sys.path.append("../zcm")
-sys.path.append("../jhy")
-from Environment import *
-from Graph import *
-from utils import *
-from TSN_schedule import *
+sys.path.append(".")
+from DRLS.Environment import *
+from DRLS.Graph import *
+from DRLS.utils import *
+from DRLS.TSN_schedule import *
 # from Data.RingSpecific import *
-import sys, getopt
+from DRLS.param import *
 
 class Main:
     def __init__(self):
