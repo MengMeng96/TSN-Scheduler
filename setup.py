@@ -1,13 +1,13 @@
 from setuptools import setup, find_packages
 
-with open("README.md", "r", encoding='UTF-8') as fh:
-    long_description = fh.read()
+# with open("README.md", "r", encoding='UTF-8') as fh:
+#     long_description = fh.read()
 
 setup(
     name="tsinghua_net",
     version="1.0.0",
     description="Tsinghua network tools",
-    long_description=long_description,
+    long_description="",
     license="Apache 2.0 Licence",
 
     url="",
