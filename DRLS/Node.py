@@ -1,4 +1,4 @@
-# -*- coding: utf-8
+# coding=utf-8
 from DRLS.param import *
 
 class Port:
