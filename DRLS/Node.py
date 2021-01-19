@@ -1,5 +1,5 @@
-from param import *
-
+# -*- coding: utf-8
+from DRLS.param import *
 
 class Port:
     def __init__(self, port_info, queue_count=args.all_queue_count):

@@ -1,4 +1,5 @@
-from param import *
+# -*- coding: UTF-8 -*-
+from DRLS.param import *
 
 class Verify(object):
     def __init__(self, info, globalCycle=args.global_cycle, bufferCapacity=5):

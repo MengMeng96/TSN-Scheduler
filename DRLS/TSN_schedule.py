@@ -2,7 +2,7 @@
 import json
 import numpy as np
 import os
-from param import *
+from DRLS.param import *
 
 import sys
 # sys.path.append("../jhy")

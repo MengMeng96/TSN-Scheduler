@@ -1,5 +1,6 @@
-from Node import *
-from Edge import *
+# -*- coding: utf-8
+from DRLS.Node import *
+from DRLS.Edge import *
 import json
 import sys
 

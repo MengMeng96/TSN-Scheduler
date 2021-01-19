@@ -1,8 +1,7 @@
-#!/usr/bin/python
 # -*- coding: UTF-8 -*-
 
-from Node import *
-from Graph import *
+from DRLS.Node import *
+from DRLS.Graph import *
 import json
 import numpy as np
 import random
