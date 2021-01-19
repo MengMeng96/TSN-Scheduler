@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 #     long_description = fh.read()
 
 setup(
-    name="tsinghua_net",
+    name="DRLS",
     version="1.0.0",
     description="Tsinghua network tools",
     long_description="",
