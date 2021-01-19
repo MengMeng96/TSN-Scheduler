@@ -7,11 +7,9 @@ import sys
 import os
 os.environ["KMP_DUPLICATE_LIB_OK"]="TRUE"
 
-from Edge import Edge
+from DRLS.Edge import Edge
 
-sys.path.append("../resource")
-sys.path.append("../zcm")
-from param import *
+from DRLS.param import *
 # from Data.Ladder import *
 
 
