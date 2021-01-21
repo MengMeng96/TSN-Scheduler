@@ -106,8 +106,8 @@ class Environment:
         self.tt_flow_length = int(
             math.ceil(self.tt_flow_lenth * 1.0 / (args.link_rate * 2 ** 17) * args.slot_per_millisecond))
 
-        print("enforce_next_query", self.cur_tt_flow_id, self.tt_flow_start, self.tt_flow_end, self.tt_flow_cycle,
-              self.tt_flow_deadline, self.tt_flow_lenth)
+        # print("enforce_next_query", self.cur_tt_flow_id, self.tt_flow_start, self.tt_flow_end, self.tt_flow_cycle,
+        #       self.tt_flow_deadline, self.tt_flow_lenth)
 
         self.graph.nodes[self.tt_flow_start].set_source_node()
         self.graph.nodes[self.tt_flow_end].set_destination_node()

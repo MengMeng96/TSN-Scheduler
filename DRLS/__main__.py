@@ -112,7 +112,6 @@ def main():
         if not actor_agent.env.enforce_next_query():
             break
         flow_number += 1
-        start_time = time.time()
     actor_agent.schedule.write_result(output_directory)
 
     # data_genes = RingSpecificGenerater()
@@ -124,7 +123,7 @@ def main():
     #                        delay_min=64, delay_max=512, pkt_min=72, pkt_max=1526, hop=1, dynamic=True)
     #     data_genes.transform_schedule_to_node_info(actor_agent.schedule.result)
     #     data_genes.write_to_file(filename=f"PCL_NetWork/test/{i}")
-    return len(info_record), actor_agent.env.edge_usage()
+    return len(info_record) == len(actor_agent.env.tt_queries), actor_agent.env.edge_usage(), time.time() - start_time
 
 
 if __name__ == '__main__':
