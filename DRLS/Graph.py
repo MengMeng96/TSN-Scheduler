@@ -73,7 +73,7 @@ class Graph:
             self.node_to_edge[(src_node.id, dst_node.id)] = edge_id
             start_from_node[src_node.id].append(edge_id)
             end_with_node[dst_node.id].append(edge_id)
-        print("edge number: ", len(self.edges))
+        # print("edge number: ", len(self.edges))
         # 初始化边邻接矩阵
         edge_number = len(self.edges)
         self.adjacent_edge_matrix = np.zeros([edge_number, edge_number])
