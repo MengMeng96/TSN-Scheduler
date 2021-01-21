@@ -63,10 +63,11 @@ class Environment:
         self.TSN_schedule.init_from_info_node(self.graph.node_info)
 
     def edge_usage(self):
-        total = len(self.graph.edges) * args.global_cycle
+        total = 0
         cur = 0
         for edge in self.graph.edges.values():
             cur += sum(edge.start_port.port_status)
+            total += len(edge.start_port.port_status)
         return cur / total
 
     def enforce_next_query(self, rool_back=False):

@@ -113,7 +113,7 @@ def main():
             break
         flow_number += 1
         start_time = time.time()
-    actor_agent.schedule.show(output_directory)
+    actor_agent.schedule.write_result(output_directory)
 
     # data_genes = RingSpecificGenerater()
     # if not os.path.exists(f'../resource/PCL_NetWork/test'):

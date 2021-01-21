@@ -147,7 +147,7 @@ class TSN_Schedule:
             self.result.append(cur_node)
         return self.result
 
-    def show(self, file_path):
+    def show(self):
         self.row_result_to_result()
         for node_info in self.result:
             node_id = node_info["nodeId"]
@@ -171,6 +171,7 @@ class TSN_Schedule:
                 for link in path["links"]:
                     print("    ", "pre link:", link["pre"], "cur link:", link["id"])
 
+    def write_result(self, file_path):
         output = {"result": self.result,
                   "paths": self.paths}
         if not os.path.exists(file_path):
