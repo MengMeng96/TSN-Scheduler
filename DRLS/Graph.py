@@ -49,7 +49,8 @@ class Graph:
             node_id = node["id"]
             tsQueueIDs = node["tsBusinessQueues"]
             ports = node["ports"]
-            self.nodes[node_id] = Node(node_id, ports, tsQueueIDs)
+            type = node["type"]
+            self.nodes[node_id] = Node(node_id, ports, tsQueueIDs, type)
 
     def load_edge_info(self):
         # print(self.edge_info)

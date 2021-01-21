@@ -63,7 +63,8 @@ class Main:
                     des = i
                     break
                 for j in range(edge_num):
-                    if edge_mat[i][j] == 1 and j not in visited:
+                    if edge_mat[i][j] == 1 and j not in visited and \
+                            (self.env.graph.edges[j].is_destination_edge or self.env.graph.edges[j].start_node.type > 0):
                         tree[j] = i
                         next_layer.append(j)
                         visited.add(j)

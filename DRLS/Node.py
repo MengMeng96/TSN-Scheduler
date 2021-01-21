@@ -32,9 +32,10 @@ class Queue:
 
 
 class Node:
-    def __init__(self, index, ports_info, tsQueueIDs, capacity=1):
+    def __init__(self, index, ports_info, tsQueueIDs, type, capacity=1):
         self.id = index
         self.buffer_capacity = capacity
+        self.type = type
         self.tsQueueIDs = tsQueueIDs
         self.is_source_node = 0
         self.is_destination_node = 0
