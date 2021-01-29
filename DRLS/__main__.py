@@ -56,7 +56,6 @@ class Main:
                 cur_layer.append(edge.id)
                 visited.add(edge.id)
         des = -1
-        print()
         while des == -1:
             assert len(cur_layer) > 0
             next_layer = []
