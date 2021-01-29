@@ -1,0 +1,2105 @@
+{
+    "0": {
+        "id": 0,
+        "topologyId": 0,
+        "name": 0,
+        "status": 1,
+        "type": 0,
+        "gclCount": 256,
+        "tsBusinessQueues": [
+            3,
+            4,
+            5,
+            6
+        ],
+        "ports": {
+            "0": {
+                "id": 0,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": [
+                            2
+                        ]
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "1": {
+                "id": 1,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": [
+                            3
+                        ]
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "2": {
+                "id": 2,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": []
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "3": {
+                "id": 3,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": []
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "4": {
+                "id": 4,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": []
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            }
+        }
+    },
+    "1": {
+        "id": 1,
+        "topologyId": 0,
+        "name": 0,
+        "status": 1,
+        "type": 0,
+        "gclCount": 256,
+        "tsBusinessQueues": [
+            3,
+            4,
+            5,
+            6
+        ],
+        "ports": {
+            "0": {
+                "id": 0,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": [
+                            1,
+                            3
+                        ]
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "1": {
+                "id": 1,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": [
+                            2
+                        ]
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "2": {
+                "id": 2,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": []
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "3": {
+                "id": 3,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": []
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "4": {
+                "id": 4,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": []
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            }
+        }
+    },
+    "2": {
+        "id": 2,
+        "topologyId": 0,
+        "name": 0,
+        "status": 1,
+        "type": 0,
+        "gclCount": 256,
+        "tsBusinessQueues": [
+            3,
+            4,
+            5,
+            6
+        ],
+        "ports": {
+            "0": {
+                "id": 0,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": [
+                            2
+                        ]
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "1": {
+                "id": 1,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": []
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "2": {
+                "id": 2,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": []
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "3": {
+                "id": 3,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": []
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "4": {
+                "id": 4,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": []
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            }
+        }
+    },
+    "3": {
+        "id": 3,
+        "topologyId": 0,
+        "name": 0,
+        "status": 1,
+        "type": 0,
+        "gclCount": 256,
+        "tsBusinessQueues": [
+            3,
+            4,
+            5,
+            6
+        ],
+        "ports": {
+            "0": {
+                "id": 0,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": [
+                            3
+                        ]
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "1": {
+                "id": 1,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": []
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "2": {
+                "id": 2,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": []
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "3": {
+                "id": 3,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": []
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "4": {
+                "id": 4,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": []
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            }
+        }
+    },
+    "4": {
+        "id": 4,
+        "topologyId": 0,
+        "name": 0,
+        "status": 1,
+        "type": 0,
+        "gclCount": 256,
+        "tsBusinessQueues": [
+            3,
+            4,
+            5,
+            6
+        ],
+        "ports": {
+            "0": {
+                "id": 0,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": [
+                            1,
+                            4
+                        ]
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "1": {
+                "id": 1,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": []
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "2": {
+                "id": 2,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": []
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "3": {
+                "id": 3,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": []
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "4": {
+                "id": 4,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": []
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            }
+        }
+    },
+    "5": {
+        "id": 5,
+        "topologyId": 0,
+        "name": 0,
+        "status": 1,
+        "type": 0,
+        "gclCount": 256,
+        "tsBusinessQueues": [
+            3,
+            4,
+            5,
+            6
+        ],
+        "ports": {
+            "0": {
+                "id": 0,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": [
+                            2
+                        ]
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "1": {
+                "id": 1,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": [
+                            4,
+                            6
+                        ]
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "2": {
+                "id": 2,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": []
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "3": {
+                "id": 3,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": []
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "4": {
+                "id": 4,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": []
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            }
+        }
+    },
+    "6": {
+        "id": 6,
+        "topologyId": 0,
+        "name": 0,
+        "status": 1,
+        "type": 0,
+        "gclCount": 256,
+        "tsBusinessQueues": [
+            3,
+            4,
+            5,
+            6
+        ],
+        "ports": {
+            "0": {
+                "id": 0,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": [
+                            1
+                        ]
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "1": {
+                "id": 1,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": [
+                            3,
+                            5
+                        ]
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "2": {
+                "id": 2,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": []
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "3": {
+                "id": 3,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": []
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "4": {
+                "id": 4,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": []
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            }
+        }
+    },
+    "7": {
+        "id": 7,
+        "topologyId": 0,
+        "name": 0,
+        "status": 1,
+        "type": 0,
+        "gclCount": 256,
+        "tsBusinessQueues": [
+            3,
+            4,
+            5,
+            6
+        ],
+        "ports": {
+            "0": {
+                "id": 0,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": [
+                            2
+                        ]
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "1": {
+                "id": 1,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": [
+                            2,
+                            4,
+                            6
+                        ]
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "2": {
+                "id": 2,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": []
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "3": {
+                "id": 3,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": []
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "4": {
+                "id": 4,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": []
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            }
+        }
+    },
+    "8": {
+        "id": 8,
+        "topologyId": 0,
+        "name": 0,
+        "status": 1,
+        "type": 0,
+        "gclCount": 256,
+        "tsBusinessQueues": [
+            3,
+            4,
+            5,
+            6
+        ],
+        "ports": {
+            "0": {
+                "id": 0,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": [
+                            3
+                        ]
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "1": {
+                "id": 1,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": [
+                            1,
+                            3,
+                            5
+                        ]
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "2": {
+                "id": 2,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": []
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "3": {
+                "id": 3,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": []
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "4": {
+                "id": 4,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": []
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            }
+        }
+    },
+    "9": {
+        "id": 9,
+        "topologyId": 0,
+        "name": 0,
+        "status": 1,
+        "type": 0,
+        "gclCount": 256,
+        "tsBusinessQueues": [
+            3,
+            4,
+            5,
+            6
+        ],
+        "ports": {
+            "0": {
+                "id": 0,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": [
+                            1
+                        ]
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "1": {
+                "id": 1,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": [
+                            2,
+                            4
+                        ]
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "2": {
+                "id": 2,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": []
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "3": {
+                "id": 3,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": []
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            },
+            "4": {
+                "id": 4,
+                "name": "queue",
+                "queues": {
+                    "0": {
+                        "id": 0,
+                        "occupiedTimeIntervals": []
+                    },
+                    "1": {
+                        "id": 1,
+                        "occupiedTimeIntervals": []
+                    },
+                    "2": {
+                        "id": 2,
+                        "occupiedTimeIntervals": []
+                    },
+                    "3": {
+                        "id": 3,
+                        "occupiedTimeIntervals": []
+                    },
+                    "4": {
+                        "id": 4,
+                        "occupiedTimeIntervals": []
+                    },
+                    "5": {
+                        "id": 5,
+                        "occupiedTimeIntervals": []
+                    },
+                    "6": {
+                        "id": 6,
+                        "occupiedTimeIntervals": []
+                    },
+                    "7": {
+                        "id": 7,
+                        "occupiedTimeIntervals": []
+                    }
+                }
+            }
+        }
+    }
+}

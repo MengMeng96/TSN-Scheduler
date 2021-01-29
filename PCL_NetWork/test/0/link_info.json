@@ -1,0 +1,222 @@
+{
+    "0": {
+        "id": 0,
+        "topologyId": 0,
+        "sourceNodeId": 0,
+        "sourcePort": 0,
+        "destNodeId": 1,
+        "destPort": 1,
+        "status": 1,
+        "cfgBandwidth": 1000,
+        "latency": 0
+    },
+    "1": {
+        "id": 1,
+        "topologyId": 0,
+        "sourceNodeId": 1,
+        "sourcePort": 1,
+        "destNodeId": 0,
+        "destPort": 0,
+        "status": 1,
+        "cfgBandwidth": 1000,
+        "latency": 0
+    },
+    "2": {
+        "id": 2,
+        "topologyId": 0,
+        "sourceNodeId": 1,
+        "sourcePort": 0,
+        "destNodeId": 2,
+        "destPort": 1,
+        "status": 1,
+        "cfgBandwidth": 1000,
+        "latency": 0
+    },
+    "3": {
+        "id": 3,
+        "topologyId": 0,
+        "sourceNodeId": 2,
+        "sourcePort": 1,
+        "destNodeId": 1,
+        "destPort": 0,
+        "status": 1,
+        "cfgBandwidth": 1000,
+        "latency": 0
+    },
+    "4": {
+        "id": 4,
+        "topologyId": 0,
+        "sourceNodeId": 2,
+        "sourcePort": 0,
+        "destNodeId": 3,
+        "destPort": 1,
+        "status": 1,
+        "cfgBandwidth": 1000,
+        "latency": 0
+    },
+    "5": {
+        "id": 5,
+        "topologyId": 0,
+        "sourceNodeId": 3,
+        "sourcePort": 1,
+        "destNodeId": 2,
+        "destPort": 0,
+        "status": 1,
+        "cfgBandwidth": 1000,
+        "latency": 0
+    },
+    "6": {
+        "id": 6,
+        "topologyId": 0,
+        "sourceNodeId": 3,
+        "sourcePort": 0,
+        "destNodeId": 4,
+        "destPort": 1,
+        "status": 1,
+        "cfgBandwidth": 1000,
+        "latency": 0
+    },
+    "7": {
+        "id": 7,
+        "topologyId": 0,
+        "sourceNodeId": 4,
+        "sourcePort": 1,
+        "destNodeId": 3,
+        "destPort": 0,
+        "status": 1,
+        "cfgBandwidth": 1000,
+        "latency": 0
+    },
+    "8": {
+        "id": 8,
+        "topologyId": 0,
+        "sourceNodeId": 4,
+        "sourcePort": 0,
+        "destNodeId": 5,
+        "destPort": 1,
+        "status": 1,
+        "cfgBandwidth": 1000,
+        "latency": 0
+    },
+    "9": {
+        "id": 9,
+        "topologyId": 0,
+        "sourceNodeId": 5,
+        "sourcePort": 1,
+        "destNodeId": 4,
+        "destPort": 0,
+        "status": 1,
+        "cfgBandwidth": 1000,
+        "latency": 0
+    },
+    "10": {
+        "id": 10,
+        "topologyId": 0,
+        "sourceNodeId": 5,
+        "sourcePort": 0,
+        "destNodeId": 6,
+        "destPort": 1,
+        "status": 1,
+        "cfgBandwidth": 1000,
+        "latency": 0
+    },
+    "11": {
+        "id": 11,
+        "topologyId": 0,
+        "sourceNodeId": 6,
+        "sourcePort": 1,
+        "destNodeId": 5,
+        "destPort": 0,
+        "status": 1,
+        "cfgBandwidth": 1000,
+        "latency": 0
+    },
+    "12": {
+        "id": 12,
+        "topologyId": 0,
+        "sourceNodeId": 6,
+        "sourcePort": 0,
+        "destNodeId": 7,
+        "destPort": 1,
+        "status": 1,
+        "cfgBandwidth": 1000,
+        "latency": 0
+    },
+    "13": {
+        "id": 13,
+        "topologyId": 0,
+        "sourceNodeId": 7,
+        "sourcePort": 1,
+        "destNodeId": 6,
+        "destPort": 0,
+        "status": 1,
+        "cfgBandwidth": 1000,
+        "latency": 0
+    },
+    "14": {
+        "id": 14,
+        "topologyId": 0,
+        "sourceNodeId": 7,
+        "sourcePort": 0,
+        "destNodeId": 8,
+        "destPort": 1,
+        "status": 1,
+        "cfgBandwidth": 1000,
+        "latency": 0
+    },
+    "15": {
+        "id": 15,
+        "topologyId": 0,
+        "sourceNodeId": 8,
+        "sourcePort": 1,
+        "destNodeId": 7,
+        "destPort": 0,
+        "status": 1,
+        "cfgBandwidth": 1000,
+        "latency": 0
+    },
+    "16": {
+        "id": 16,
+        "topologyId": 0,
+        "sourceNodeId": 8,
+        "sourcePort": 0,
+        "destNodeId": 9,
+        "destPort": 1,
+        "status": 1,
+        "cfgBandwidth": 1000,
+        "latency": 0
+    },
+    "17": {
+        "id": 17,
+        "topologyId": 0,
+        "sourceNodeId": 9,
+        "sourcePort": 1,
+        "destNodeId": 8,
+        "destPort": 0,
+        "status": 1,
+        "cfgBandwidth": 1000,
+        "latency": 0
+    },
+    "18": {
+        "id": 18,
+        "topologyId": 0,
+        "sourceNodeId": 9,
+        "sourcePort": 0,
+        "destNodeId": 0,
+        "destPort": 1,
+        "status": 1,
+        "cfgBandwidth": 1000,
+        "latency": 0
+    },
+    "19": {
+        "id": 19,
+        "topologyId": 0,
+        "sourceNodeId": 0,
+        "sourcePort": 1,
+        "destNodeId": 9,
+        "destPort": 0,
+        "status": 1,
+        "cfgBandwidth": 1000,
+        "latency": 0
+    }
+}

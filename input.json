@@ -1,0 +1,2481 @@
+{
+    "id": 0,
+    "topology": {
+        "links": [
+            {
+                "id": 0,
+                "topologyId": 0,
+                "sourceNodeId": 0,
+                "sourcePort": 0,
+                "destNodeId": 1,
+                "destPort": 1,
+                "status": true,
+                "cfgBandwidth": 1000,
+                "latency": 0
+            },
+            {
+                "id": 1,
+                "topologyId": 0,
+                "sourceNodeId": 1,
+                "sourcePort": 1,
+                "destNodeId": 0,
+                "destPort": 0,
+                "status": true,
+                "cfgBandwidth": 1000,
+                "latency": 0
+            },
+            {
+                "id": 2,
+                "topologyId": 0,
+                "sourceNodeId": 1,
+                "sourcePort": 0,
+                "destNodeId": 2,
+                "destPort": 1,
+                "status": true,
+                "cfgBandwidth": 1000,
+                "latency": 0
+            },
+            {
+                "id": 3,
+                "topologyId": 0,
+                "sourceNodeId": 2,
+                "sourcePort": 1,
+                "destNodeId": 1,
+                "destPort": 0,
+                "status": true,
+                "cfgBandwidth": 1000,
+                "latency": 0
+            },
+            {
+                "id": 4,
+                "topologyId": 0,
+                "sourceNodeId": 2,
+                "sourcePort": 0,
+                "destNodeId": 3,
+                "destPort": 1,
+                "status": true,
+                "cfgBandwidth": 1000,
+                "latency": 0
+            },
+            {
+                "id": 5,
+                "topologyId": 0,
+                "sourceNodeId": 3,
+                "sourcePort": 1,
+                "destNodeId": 2,
+                "destPort": 0,
+                "status": true,
+                "cfgBandwidth": 1000,
+                "latency": 0
+            },
+            {
+                "id": 6,
+                "topologyId": 0,
+                "sourceNodeId": 3,
+                "sourcePort": 0,
+                "destNodeId": 4,
+                "destPort": 1,
+                "status": true,
+                "cfgBandwidth": 1000,
+                "latency": 0
+            },
+            {
+                "id": 7,
+                "topologyId": 0,
+                "sourceNodeId": 4,
+                "sourcePort": 1,
+                "destNodeId": 3,
+                "destPort": 0,
+                "status": true,
+                "cfgBandwidth": 1000,
+                "latency": 0
+            },
+            {
+                "id": 8,
+                "topologyId": 0,
+                "sourceNodeId": 4,
+                "sourcePort": 0,
+                "destNodeId": 5,
+                "destPort": 1,
+                "status": true,
+                "cfgBandwidth": 1000,
+                "latency": 0
+            },
+            {
+                "id": 9,
+                "topologyId": 0,
+                "sourceNodeId": 5,
+                "sourcePort": 1,
+                "destNodeId": 4,
+                "destPort": 0,
+                "status": true,
+                "cfgBandwidth": 1000,
+                "latency": 0
+            },
+            {
+                "id": 10,
+                "topologyId": 0,
+                "sourceNodeId": 5,
+                "sourcePort": 0,
+                "destNodeId": 6,
+                "destPort": 1,
+                "status": true,
+                "cfgBandwidth": 1000,
+                "latency": 0
+            },
+            {
+                "id": 11,
+                "topologyId": 0,
+                "sourceNodeId": 6,
+                "sourcePort": 1,
+                "destNodeId": 5,
+                "destPort": 0,
+                "status": true,
+                "cfgBandwidth": 1000,
+                "latency": 0
+            },
+            {
+                "id": 12,
+                "topologyId": 0,
+                "sourceNodeId": 6,
+                "sourcePort": 0,
+                "destNodeId": 7,
+                "destPort": 1,
+                "status": true,
+                "cfgBandwidth": 1000,
+                "latency": 0
+            },
+            {
+                "id": 13,
+                "topologyId": 0,
+                "sourceNodeId": 7,
+                "sourcePort": 1,
+                "destNodeId": 6,
+                "destPort": 0,
+                "status": true,
+                "cfgBandwidth": 1000,
+                "latency": 0
+            },
+            {
+                "id": 14,
+                "topologyId": 0,
+                "sourceNodeId": 7,
+                "sourcePort": 0,
+                "destNodeId": 8,
+                "destPort": 1,
+                "status": true,
+                "cfgBandwidth": 1000,
+                "latency": 0
+            },
+            {
+                "id": 15,
+                "topologyId": 0,
+                "sourceNodeId": 8,
+                "sourcePort": 1,
+                "destNodeId": 7,
+                "destPort": 0,
+                "status": true,
+                "cfgBandwidth": 1000,
+                "latency": 0
+            },
+            {
+                "id": 16,
+                "topologyId": 0,
+                "sourceNodeId": 8,
+                "sourcePort": 0,
+                "destNodeId": 9,
+                "destPort": 1,
+                "status": true,
+                "cfgBandwidth": 1000,
+                "latency": 0
+            },
+            {
+                "id": 17,
+                "topologyId": 0,
+                "sourceNodeId": 9,
+                "sourcePort": 1,
+                "destNodeId": 8,
+                "destPort": 0,
+                "status": true,
+                "cfgBandwidth": 1000,
+                "latency": 0
+            },
+            {
+                "id": 18,
+                "topologyId": 0,
+                "sourceNodeId": 9,
+                "sourcePort": 0,
+                "destNodeId": 0,
+                "destPort": 1,
+                "status": true,
+                "cfgBandwidth": 1000,
+                "latency": 0
+            },
+            {
+                "id": 19,
+                "topologyId": 0,
+                "sourceNodeId": 0,
+                "sourcePort": 1,
+                "destNodeId": 9,
+                "destPort": 0,
+                "status": true,
+                "cfgBandwidth": 1000,
+                "latency": 0
+            }
+        ],
+        "nodes": [
+            {
+                "id": 0,
+                "topologyId": 0,
+                "name": 0,
+                "status": true,
+                "type": 1,
+                "gclCount": 256,
+                "tsBusinessQueues": [
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "ports": [
+                    {
+                        "id": 0,
+                        "name": "port_0",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": [
+                                    {
+                                        "startTime": 40.0,
+                                        "endTime": 60.0
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "name": "port_1",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": [
+                                    {
+                                        "startTime": 60.0,
+                                        "endTime": 80.0
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "name": "port_2",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "port_3",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "name": "port_4",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "topologyId": 0,
+                "name": 0,
+                "status": true,
+                "type": 1,
+                "gclCount": 256,
+                "tsBusinessQueues": [
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "ports": [
+                    {
+                        "id": 0,
+                        "name": "port_0",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": [
+                                    {
+                                        "startTime": 20.0,
+                                        "endTime": 40.0
+                                    },
+                                    {
+                                        "startTime": 60.0,
+                                        "endTime": 80.0
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "name": "port_1",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": [
+                                    {
+                                        "startTime": 40.0,
+                                        "endTime": 60.0
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "name": "port_2",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "port_3",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "name": "port_4",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "topologyId": 0,
+                "name": 0,
+                "status": true,
+                "type": 1,
+                "gclCount": 256,
+                "tsBusinessQueues": [
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "ports": [
+                    {
+                        "id": 0,
+                        "name": "port_0",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": [
+                                    {
+                                        "startTime": 40.0,
+                                        "endTime": 60.0
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "name": "port_1",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": [
+                                    {
+                                        "startTime": 20.0,
+                                        "endTime": 40.0
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "name": "port_2",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "port_3",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "name": "port_4",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "topologyId": 0,
+                "name": 0,
+                "status": true,
+                "type": 1,
+                "gclCount": 256,
+                "tsBusinessQueues": [
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "ports": [
+                    {
+                        "id": 0,
+                        "name": "port_0",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": [
+                                    {
+                                        "startTime": 20.0,
+                                        "endTime": 40.0
+                                    },
+                                    {
+                                        "startTime": 60.0,
+                                        "endTime": 80.0
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "name": "port_1",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": [
+                                    {
+                                        "startTime": 100.0,
+                                        "endTime": 120.0
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "name": "port_2",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "port_3",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "name": "port_4",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "topologyId": 0,
+                "name": 0,
+                "status": true,
+                "type": 1,
+                "gclCount": 256,
+                "tsBusinessQueues": [
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "ports": [
+                    {
+                        "id": 0,
+                        "name": "port_0",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": [
+                                    {
+                                        "startTime": 80.0,
+                                        "endTime": 100.0
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "name": "port_1",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": [
+                                    {
+                                        "startTime": 80.0,
+                                        "endTime": 100.0
+                                    },
+                                    {
+                                        "startTime": 160.0,
+                                        "endTime": 180.0
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "name": "port_2",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "port_3",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "name": "port_4",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "topologyId": 0,
+                "name": 0,
+                "status": true,
+                "type": 1,
+                "gclCount": 256,
+                "tsBusinessQueues": [
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "ports": [
+                    {
+                        "id": 0,
+                        "name": "port_0",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "name": "port_1",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": [
+                                    {
+                                        "startTime": 60.0,
+                                        "endTime": 80.0
+                                    },
+                                    {
+                                        "startTime": 140.0,
+                                        "endTime": 160.0
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "name": "port_2",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "port_3",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "name": "port_4",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "topologyId": 0,
+                "name": 0,
+                "status": true,
+                "type": 1,
+                "gclCount": 256,
+                "tsBusinessQueues": [
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "ports": [
+                    {
+                        "id": 0,
+                        "name": "port_0",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "name": "port_1",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": [
+                                    {
+                                        "startTime": 40.0,
+                                        "endTime": 60.0
+                                    },
+                                    {
+                                        "startTime": 80.0,
+                                        "endTime": 100.0
+                                    },
+                                    {
+                                        "startTime": 120.0,
+                                        "endTime": 140.0
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "name": "port_2",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "port_3",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "name": "port_4",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "topologyId": 0,
+                "name": 0,
+                "status": true,
+                "type": 1,
+                "gclCount": 256,
+                "tsBusinessQueues": [
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "ports": [
+                    {
+                        "id": 0,
+                        "name": "port_0",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "name": "port_1",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": [
+                                    {
+                                        "startTime": 20.0,
+                                        "endTime": 40.0
+                                    },
+                                    {
+                                        "startTime": 60.0,
+                                        "endTime": 80.0
+                                    },
+                                    {
+                                        "startTime": 100.0,
+                                        "endTime": 120.0
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "name": "port_2",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "port_3",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "name": "port_4",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "topologyId": 0,
+                "name": 0,
+                "status": true,
+                "type": 1,
+                "gclCount": 256,
+                "tsBusinessQueues": [
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "ports": [
+                    {
+                        "id": 0,
+                        "name": "port_0",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": [
+                                    {
+                                        "startTime": 20.0,
+                                        "endTime": 40.0
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "name": "port_1",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "name": "port_2",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "port_3",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "name": "port_4",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "topologyId": 0,
+                "name": 0,
+                "status": true,
+                "type": 1,
+                "gclCount": 256,
+                "tsBusinessQueues": [
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "ports": [
+                    {
+                        "id": 0,
+                        "name": "port_0",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "name": "port_1",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "name": "port_2",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "port_3",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "name": "port_4",
+                        "queues": [
+                            {
+                                "id": 0,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 1,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 2,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 3,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 4,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 5,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 6,
+                                "occupiedTimeIntervals": []
+                            },
+                            {
+                                "id": 7,
+                                "occupiedTimeIntervals": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "flows": [
+        {
+            "id": 0,
+            "maxFrameSize": 1000,
+            "period": 10,
+            "talker": 3,
+            "listeners": [
+                5
+            ],
+            "maxLatency": 256,
+            "jitter": 0
+        },
+        {
+            "id": 1,
+            "maxFrameSize": 1000,
+            "period": 10,
+            "talker": 3,
+            "listeners": [
+                2
+            ],
+            "maxLatency": 219,
+            "jitter": 0
+        },
+        {
+            "id": 2,
+            "maxFrameSize": 1000,
+            "period": 10,
+            "talker": 3,
+            "listeners": [
+                6
+            ],
+            "maxLatency": 259,
+            "jitter": 0
+        },
+        {
+            "id": 3,
+            "maxFrameSize": 1000,
+            "period": 10,
+            "talker": 2,
+            "listeners": [
+                5
+            ],
+            "maxLatency": 322,
+            "jitter": 0
+        },
+        {
+            "id": 4,
+            "maxFrameSize": 1000,
+            "period": 10,
+            "talker": 7,
+            "listeners": [
+                5
+            ],
+            "maxLatency": 307,
+            "jitter": 0
+        },
+        {
+            "id": 5,
+            "maxFrameSize": 1000,
+            "period": 10,
+            "talker": 7,
+            "listeners": [
+                9
+            ],
+            "maxLatency": 364,
+            "jitter": 0
+        },
+        {
+            "id": 6,
+            "maxFrameSize": 1000,
+            "period": 10,
+            "talker": 9,
+            "listeners": [
+                8
+            ],
+            "maxLatency": 109,
+            "jitter": 0
+        },
+        {
+            "id": 7,
+            "maxFrameSize": 1000,
+            "period": 10,
+            "talker": 2,
+            "listeners": [
+                0
+            ],
+            "maxLatency": 313,
+            "jitter": 0
+        }
+    ]
+}

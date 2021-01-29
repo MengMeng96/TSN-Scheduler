@@ -1,0 +1,106 @@
+{
+    "0": {
+        "id": 0,
+        "name": "flow",
+        "maxFrameSize": 1063,
+        "period": 10,
+        "talkerID": 6,
+        "listenerIDs": [
+            9
+        ],
+        "maxLatency": 442,
+        "messageLength": 1000,
+        "jitter": 0
+    },
+    "1": {
+        "id": 1,
+        "name": "flow",
+        "maxFrameSize": 985,
+        "period": 10,
+        "talkerID": 1,
+        "listenerIDs": [
+            5
+        ],
+        "maxLatency": 105,
+        "messageLength": 1000,
+        "jitter": 0
+    },
+    "2": {
+        "id": 2,
+        "name": "flow",
+        "maxFrameSize": 135,
+        "period": 10,
+        "talkerID": 8,
+        "listenerIDs": [
+            4
+        ],
+        "maxLatency": 301,
+        "messageLength": 1000,
+        "jitter": 0
+    },
+    "3": {
+        "id": 3,
+        "name": "flow",
+        "maxFrameSize": 176,
+        "period": 10,
+        "talkerID": 9,
+        "listenerIDs": [
+            7
+        ],
+        "maxLatency": 506,
+        "messageLength": 1000,
+        "jitter": 0
+    },
+    "4": {
+        "id": 4,
+        "name": "flow",
+        "maxFrameSize": 194,
+        "period": 10,
+        "talkerID": 1,
+        "listenerIDs": [
+            6
+        ],
+        "maxLatency": 394,
+        "messageLength": 1000,
+        "jitter": 0
+    },
+    "5": {
+        "id": 5,
+        "name": "flow",
+        "maxFrameSize": 837,
+        "period": 10,
+        "talkerID": 9,
+        "listenerIDs": [
+            2
+        ],
+        "maxLatency": 247,
+        "messageLength": 1000,
+        "jitter": 0
+    },
+    "6": {
+        "id": 6,
+        "name": "flow",
+        "maxFrameSize": 168,
+        "period": 10,
+        "talkerID": 4,
+        "listenerIDs": [
+            6
+        ],
+        "maxLatency": 478,
+        "messageLength": 1000,
+        "jitter": 0
+    },
+    "7": {
+        "id": 7,
+        "name": "flow",
+        "maxFrameSize": 658,
+        "period": 10,
+        "talkerID": 7,
+        "listenerIDs": [
+            4
+        ],
+        "maxLatency": 355,
+        "messageLength": 1000,
+        "jitter": 0
+    }
+}

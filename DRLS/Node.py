@@ -13,7 +13,7 @@ class Port:
     # TODO 写一个函数，将初始化和读取已有信息分开
         if "queues" in port_info:
             for queue_info in port_info["queues"]:
-                print(queue_info)
+                #print(queue_info)
                 queue_id = queue_info["id"]
                 time_slot_length = 1000 / args.slot_per_millisecond  # us
                 for interval in queue_info["occupiedTimeIntervals"]:

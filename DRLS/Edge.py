@@ -4,7 +4,7 @@ from DRLS.param import *
 
 
 class Edge:
-    def __init__(self, index, start_node, start_port, end_node, end_port, src_port_queues_info={}, queue_capacity=1):
+    def __init__(self, index, start_node, start_port, end_node, end_port, edge_speed, src_port_queues_info={}, queue_capacity=1):
         self.id = index
         self.start_node = start_node
         self.start_port = start_port
@@ -13,6 +13,7 @@ class Edge:
         self.is_source_edge = self.start_node.is_source_node
         self.is_destination_edge = self.end_node.is_destination_node
         self.global_cycle = args.global_cycle
+        self.edge_speed = edge_speed
         # self.time_slot_available = np.ones([self.global_cycle * args.slot_per_millisecond])
         # self.time_slot_status = {}
         # self.max_cycle = max(args.tt_flow_cycles)

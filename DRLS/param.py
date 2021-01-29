@@ -28,7 +28,7 @@ parser.add_argument('--max_depth', type=int, default=8,
 parser.add_argument('--hid_dims', type=int, default=[16, 8], nargs='+',
                     help='hidden dimensions throughout graph embedding (default: [16, 8])')
 
-parser.add_argument('--data_path', type=str, default='../resource/PCL_NetWork/test/1/',
+parser.add_argument('--data_path', type=str, default='../input.json',
                     help='path of test data')
 parser.add_argument('--output_directory', type=str, default=".",#4096,#8196,#32768,
                     help='output directory')

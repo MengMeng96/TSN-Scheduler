@@ -1,0 +1,2112 @@
+{
+    "result": [
+        {
+            "nodeId": 0,
+            "ports": [
+                {
+                    "portId": 0,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 40.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 1,
+                            "timeDuration": 20.0,
+                            "holdPMac": true,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 2,
+                            "timeDuration": 140.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 1,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 60.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 1,
+                            "timeDuration": 20.0,
+                            "holdPMac": true,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 2,
+                            "timeDuration": 120.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 2,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 200.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 3,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 200.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 4,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 200.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nodeId": 1,
+            "ports": [
+                {
+                    "portId": 0,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 20.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 1,
+                            "timeDuration": 20.0,
+                            "holdPMac": true,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 2,
+                            "timeDuration": 20.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 3,
+                            "timeDuration": 20.0,
+                            "holdPMac": true,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 4,
+                            "timeDuration": 120.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 1,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 40.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 1,
+                            "timeDuration": 20.0,
+                            "holdPMac": true,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 2,
+                            "timeDuration": 140.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 2,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 200.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 3,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 200.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 4,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 200.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nodeId": 2,
+            "ports": [
+                {
+                    "portId": 0,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 40.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 1,
+                            "timeDuration": 20.0,
+                            "holdPMac": true,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 2,
+                            "timeDuration": 140.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 1,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 20.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 1,
+                            "timeDuration": 20.0,
+                            "holdPMac": true,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 2,
+                            "timeDuration": 160.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 2,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 200.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 3,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 200.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 4,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 200.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nodeId": 3,
+            "ports": [
+                {
+                    "portId": 0,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 20.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 1,
+                            "timeDuration": 20.0,
+                            "holdPMac": true,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 2,
+                            "timeDuration": 20.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 3,
+                            "timeDuration": 20.0,
+                            "holdPMac": true,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 4,
+                            "timeDuration": 120.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 1,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 100.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 1,
+                            "timeDuration": 20.0,
+                            "holdPMac": true,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 2,
+                            "timeDuration": 80.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 2,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 200.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 3,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 200.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 4,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 200.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nodeId": 4,
+            "ports": [
+                {
+                    "portId": 0,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 80.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 1,
+                            "timeDuration": 20.0,
+                            "holdPMac": true,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 2,
+                            "timeDuration": 100.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 1,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 80.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 1,
+                            "timeDuration": 20.0,
+                            "holdPMac": true,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 2,
+                            "timeDuration": 60.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 3,
+                            "timeDuration": 20.0,
+                            "holdPMac": true,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 4,
+                            "timeDuration": 20.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 2,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 200.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 3,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 200.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 4,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 200.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nodeId": 5,
+            "ports": [
+                {
+                    "portId": 0,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 200.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 1,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 60.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 1,
+                            "timeDuration": 20.0,
+                            "holdPMac": true,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 2,
+                            "timeDuration": 60.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 3,
+                            "timeDuration": 20.0,
+                            "holdPMac": true,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 4,
+                            "timeDuration": 40.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 2,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 200.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 3,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 200.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 4,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 200.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nodeId": 6,
+            "ports": [
+                {
+                    "portId": 0,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 200.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 1,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 40.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 1,
+                            "timeDuration": 20.0,
+                            "holdPMac": true,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 2,
+                            "timeDuration": 20.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 3,
+                            "timeDuration": 20.0,
+                            "holdPMac": true,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 4,
+                            "timeDuration": 20.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 5,
+                            "timeDuration": 20.0,
+                            "holdPMac": true,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 6,
+                            "timeDuration": 60.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 2,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 200.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 3,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 200.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 4,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 200.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nodeId": 7,
+            "ports": [
+                {
+                    "portId": 0,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 200.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 1,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 20.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 1,
+                            "timeDuration": 20.0,
+                            "holdPMac": true,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 2,
+                            "timeDuration": 20.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 3,
+                            "timeDuration": 20.0,
+                            "holdPMac": true,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 4,
+                            "timeDuration": 20.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 5,
+                            "timeDuration": 20.0,
+                            "holdPMac": true,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 6,
+                            "timeDuration": 80.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 2,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 200.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 3,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 200.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 4,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 200.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nodeId": 8,
+            "ports": [
+                {
+                    "portId": 0,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 20.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 1,
+                            "timeDuration": 20.0,
+                            "holdPMac": true,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "gclId": 2,
+                            "timeDuration": 160.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 1,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 200.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 2,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 200.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 3,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 200.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 4,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 200.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nodeId": 9,
+            "ports": [
+                {
+                    "portId": 0,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 200.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 1,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 200.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 2,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 200.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 3,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 200.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "portId": 4,
+                    "adminBaseTime": 0,
+                    "adminCycleTimeExt": 0,
+                    "gcls": [
+                        {
+                            "gclId": 0,
+                            "timeDuration": 200.0,
+                            "holdPMac": false,
+                            "gateStates": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "paths": [
+        {
+            "flowId": 0,
+            "path": [
+                {
+                    "nodes": [
+                        {
+                            "id": 3,
+                            "pre": -1
+                        },
+                        {
+                            "id": 4,
+                            "pre": 3
+                        }
+                    ],
+                    "links": [
+                        {
+                            "id": 6,
+                            "pre": -1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "flowId": 1,
+            "path": [
+                {
+                    "nodes": [
+                        {
+                            "id": 1,
+                            "pre": -1
+                        },
+                        {
+                            "id": 2,
+                            "pre": 1
+                        },
+                        {
+                            "id": 3,
+                            "pre": 2
+                        },
+                        {
+                            "id": 4,
+                            "pre": 3
+                        },
+                        {
+                            "id": 5,
+                            "pre": 4
+                        }
+                    ],
+                    "links": [
+                        {
+                            "id": 2,
+                            "pre": -1
+                        },
+                        {
+                            "id": 4,
+                            "pre": 2
+                        },
+                        {
+                            "id": 6,
+                            "pre": 4
+                        },
+                        {
+                            "id": 8,
+                            "pre": 6
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "flowId": 2,
+            "path": [
+                {
+                    "nodes": [
+                        {
+                            "id": 8,
+                            "pre": -1
+                        },
+                        {
+                            "id": 9,
+                            "pre": 8
+                        }
+                    ],
+                    "links": [
+                        {
+                            "id": 16,
+                            "pre": -1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "flowId": 3,
+            "path": [
+                {
+                    "nodes": [
+                        {
+                            "id": 7,
+                            "pre": -1
+                        },
+                        {
+                            "id": 6,
+                            "pre": 7
+                        },
+                        {
+                            "id": 5,
+                            "pre": 6
+                        },
+                        {
+                            "id": 4,
+                            "pre": 5
+                        },
+                        {
+                            "id": 3,
+                            "pre": 4
+                        },
+                        {
+                            "id": 2,
+                            "pre": 3
+                        }
+                    ],
+                    "links": [
+                        {
+                            "id": 13,
+                            "pre": -1
+                        },
+                        {
+                            "id": 11,
+                            "pre": 13
+                        },
+                        {
+                            "id": 9,
+                            "pre": 11
+                        },
+                        {
+                            "id": 7,
+                            "pre": 9
+                        },
+                        {
+                            "id": 5,
+                            "pre": 7
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "flowId": 4,
+            "path": [
+                {
+                    "nodes": [
+                        {
+                            "id": 0,
+                            "pre": -1
+                        },
+                        {
+                            "id": 1,
+                            "pre": 0
+                        },
+                        {
+                            "id": 2,
+                            "pre": 1
+                        }
+                    ],
+                    "links": [
+                        {
+                            "id": 0,
+                            "pre": -1
+                        },
+                        {
+                            "id": 2,
+                            "pre": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "flowId": 5,
+            "path": [
+                {
+                    "nodes": [
+                        {
+                            "id": 2,
+                            "pre": -1
+                        },
+                        {
+                            "id": 1,
+                            "pre": 2
+                        },
+                        {
+                            "id": 0,
+                            "pre": 1
+                        },
+                        {
+                            "id": 9,
+                            "pre": 0
+                        }
+                    ],
+                    "links": [
+                        {
+                            "id": 3,
+                            "pre": -1
+                        },
+                        {
+                            "id": 1,
+                            "pre": 3
+                        },
+                        {
+                            "id": 19,
+                            "pre": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "flowId": 6,
+            "path": [
+                {
+                    "nodes": [
+                        {
+                            "id": 7,
+                            "pre": -1
+                        },
+                        {
+                            "id": 6,
+                            "pre": 7
+                        },
+                        {
+                            "id": 5,
+                            "pre": 6
+                        }
+                    ],
+                    "links": [
+                        {
+                            "id": 13,
+                            "pre": -1
+                        },
+                        {
+                            "id": 11,
+                            "pre": 13
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "flowId": 7,
+            "path": [
+                {
+                    "nodes": [
+                        {
+                            "id": 7,
+                            "pre": -1
+                        },
+                        {
+                            "id": 6,
+                            "pre": 7
+                        },
+                        {
+                            "id": 5,
+                            "pre": 6
+                        },
+                        {
+                            "id": 4,
+                            "pre": 5
+                        },
+                        {
+                            "id": 3,
+                            "pre": 4
+                        }
+                    ],
+                    "links": [
+                        {
+                            "id": 13,
+                            "pre": -1
+                        },
+                        {
+                            "id": 11,
+                            "pre": 13
+                        },
+                        {
+                            "id": 9,
+                            "pre": 11
+                        },
+                        {
+                            "id": 7,
+                            "pre": 9
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -68,7 +68,8 @@ class Graph:
             src_port = src_node.ports[edge["sourcePort"]]
             dst_node = self.nodes[edge["destNodeId"]]
             dst_port = dst_node.ports[edge["destPort"]]
-            self.edges[edge_id] = Edge(edge_id, src_node, src_port, dst_node, dst_port)
+            edge_speed = edge["cfgBandwidth"]
+            self.edges[edge_id] = Edge(edge_id, src_node, src_port, dst_node, dst_port, edge_speed)
             # TODO 需要修改，因为当前环境下两个网络节点之间可能会有重复链路
             self.node_to_edge[(src_node.id, dst_node.id)] = edge_id
             start_from_node[src_node.id].append(edge_id)
