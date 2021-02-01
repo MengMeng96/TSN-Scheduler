@@ -57,7 +57,8 @@ class Main:
                 visited.add(edge.id)
         des = -1
         while des == -1:
-            assert len(cur_layer) > 0
+            if len(cur_layer) == 0:
+                return []
             next_layer = []
             for i in cur_layer:
                 if self.env.graph.edges[i].is_destination_edge:
@@ -98,8 +99,11 @@ def main():
     output_directory = args.output_directory
     # print(input_file, output_directory)
     actor_agent = Main()
-    tsn_info = json.load(open(input_file, encoding='utf-8'))
-    actor_agent.env = Environment(tsn_info)  # DataGenerater(node_num))
+    try:
+        tsn_info = json.load(open(input_file, encoding='utf-8'))
+        actor_agent.env = Environment(tsn_info)  # DataGenerater(node_num))
+    except:
+        return 1, "Illegal input"
     actor_agent.schedule = TSN_Schedule(actor_agent.env.graph, args.all_queue_count)
     actor_agent.schedule.init_from_info_node(actor_agent.env.graph.node_info)
     start_time = time.time()
@@ -125,8 +129,10 @@ def main():
     #                        delay_min=64, delay_max=512, pkt_min=72, pkt_max=1526, hop=1, dynamic=True)
     #     data_genes.transform_schedule_to_node_info(actor_agent.schedule.result)
     #     data_genes.write_to_file(filename=f"PCL_NetWork/test/{i}")
-    # return len(info_record) == len(actor_agent.env.tt_queries), actor_agent.env.edge_usage(), time.time() - start_time
-    return 0, "success"
+    # actor_agent.env.edge_usage(), time.time() - start_time
+    if len(info_record) != len(actor_agent.env.tt_queries):
+        return 2, "Schedule failed"
+    return 0, "Success"
 
 
 if __name__ == '__main__':

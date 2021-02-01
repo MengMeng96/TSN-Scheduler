@@ -176,6 +176,7 @@ class TSN_Schedule:
                   "paths": self.paths}
         if not os.path.exists(file_path):
             os.mkdir(file_path)
+        # print(file_path)
         json.dump(output, open(f'{file_path}/output.json', "w"), indent=4)
 
 
