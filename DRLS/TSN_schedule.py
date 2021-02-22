@@ -138,7 +138,7 @@ class TSN_Schedule:
             cur_node = {"nodeId": node_id,
                         "ports": []}
             for (port_id, port_info) in node_info["ports"].items():
-                print(port_info)
+                # print(port_info)
                 cur_port = {"portId": port_id,
                             "adminBaseTime": 0,
                             "adminCycleTimeExt": 0,
@@ -172,6 +172,7 @@ class TSN_Schedule:
                     print("    ", "pre link:", link["pre"], "cur link:", link["id"])
 
     def write_result(self, file_path):
+        self.row_result_to_result()
         output = {"result": self.result,
                   "paths": self.paths}
         if not os.path.exists(file_path):
